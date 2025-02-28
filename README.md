@@ -22,7 +22,7 @@ Para infra, vamos usar o seguinte conjunto:
 
 ```plain
 A ideia inicial é que os arquivos sejam armazenados dentro do volume do container da aplicação.
-Teremos um cache de `60s` de TTL para cada arquivo.
+Teremos um cache de 60s de TTL para cada arquivo.
 O arquivo deve estar disponível antes mesmo de ser persistido no sistema de arquivos.
 O arquivo só deve ser lido a partir do sistema de arquivos se não houver cache válido para o mesmo.
 ```
