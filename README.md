@@ -45,5 +45,3 @@ Este teste busca avaliar as seguintes competências:
 - Domínio sobre a runtime `node.js`;
 - Capacidade de organização de código (Adendo: organize da forma que for mais familiarizado, não estamos olhando para a estrutura de pastas, mas sim para a coesão e o desacoplamento) e
 - Capacidade de lidar com contêineres Docker.
-
-O tempo proposto para a conclusão deste desafio técnico é de 1 (um) dia.
