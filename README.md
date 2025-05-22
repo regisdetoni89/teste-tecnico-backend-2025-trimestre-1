@@ -39,6 +39,7 @@ Acaso você esteja utilizando este projeto como um meio de estudo, nós o aconse
 
 Este teste busca avaliar as seguintes competências:
 
+- Capacidade de uso correto de design patterns;
 - Capacidade de interação com APIs de sistema;
 - Capacidade de desenvolver soluções que usam o conceito de concorrência para extrair maior desempenho do hardware;
 - Domínio sobre a linguagem JavaScript;
