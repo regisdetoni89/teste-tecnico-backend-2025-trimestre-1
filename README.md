@@ -39,10 +39,10 @@ Acaso você esteja utilizando este projeto como um meio de estudo, nós o aconse
 
 Este teste busca avaliar as seguintes competências:
 
-- Capacidade de uso correto de design patterns;
-- Capacidade de interação com APIs de sistema;
-- Capacidade de desenvolver soluções que usam o conceito de concorrência para extrair maior desempenho do hardware;
-- Domínio sobre a linguagem JavaScript;
-- Domínio sobre a runtime `node.js`;
-- Capacidade de organização de código (Adendo: organize da forma que for mais familiarizado, não estamos olhando para a estrutura de pastas, mas sim para a coesão e o desacoplamento) e
-- Capacidade de lidar com contêineres Docker.
+1. Capacidade de uso correto de design patterns;
+2. Capacidade de interação com APIs de sistema;
+3. Capacidade de desenvolver soluções que usam o conceito de concorrência para extrair maior desempenho do hardware;
+4. Domínio sobre a linguagem JavaScript;
+5. Domínio sobre a runtime `node.js`;
+6. Capacidade de organização de código (Adendo: organize da forma que for mais familiarizado, não estamos olhando para a estrutura de pastas, mas sim para a coesão e o desacoplamento) e
+7. Capacidade de lidar com contêineres Docker.
